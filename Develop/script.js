@@ -26,7 +26,7 @@ $('.container-fluid').children().each(function(){
         }
 });
 
-
+    // Renders tasks onto schedule
 $('.container-fluid').children().each(function(){
   var hourID = $(this).attr('id');
   var task = localStorage.getItem(hourID);
