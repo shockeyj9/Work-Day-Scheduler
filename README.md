@@ -11,7 +11,7 @@ Once the task has been entered the save button on the left hand side can be clic
 
 During the process of this assignment I learned how to work with jQuery and Dayjs third party APIs.
 
-This webpage has been deployed at: 
+This webpage has been deployed at: https://shockeyj9.github.io/Work-Day-Scheduler/ 
 
 
 ## Installation
