@@ -23,22 +23,22 @@ N/A
 This application uses styling to update the hour time slots. 
 Past times reflect a background color of grey:
 
-![past-hour](./Assets)
+![past-hour](./Assets/past-hour.png)
 
 The current hour reflects a background color of red:
 
-![present-hour](./Assets)
+![current-hour](./Assets/current-hour.png)
 
 Future times reflect a background color of green:
 
-![future-hours](./Assets)
+![future-hours](./Assets/future-hour.png)
 
 After the user enters a task, or deletes the current task, the save button is clicked:
 
-![save-feature](./Assets)
+![save-feature](./Assets/save-feature.png)
 
 The user can then navigate away from the application, or refresh the application, and the tasks will be rendered to the page:
-![future-hours](./Assets)
+![render-feature](./Assets/render-featue.png)
 
 ## Credits
 
